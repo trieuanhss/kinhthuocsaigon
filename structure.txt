@@ -1,0 +1,40 @@
+MERGES: ["A10:D10", "A6:H6", "A9:D9", "A7:H7", "A25:H25", "A22:F22", "C31:D31", "E31:F31", "A12:H12", "A1:D1", "A26:H26", "E1:H1", "A5:H5", "A23:H23", "E10:H10", "E9:H9", "A3:D3", "G31:H31", "A2:D2", "A31:B31", "E2:H2"]
+ROW1:COL1|'T├èN Hß╗ÿ KINH DOANH:'|align=left|bold=False|size=12.0
+ROW1:COL5|'Cß╗ÿNG H├ÆA X├â Hß╗ÿI CHß╗ª NGH─¿A VIß╗åT NAM'|align=center|bold=True|size=12.0
+ROW2:COL1|'M├ú sß╗æ thuß║┐:'|align=None|bold=False|size=12.0
+ROW2:COL5|'─Éß╗Öc lß║¡p - Tß╗▒ do - Hß║ính ph├║c'|align=center|bold=True|size=12.0
+ROW3:COL1|'─Éß╗ïa chß╗ë:'|align=None|bold=False|size=12.0
+ROW5:COL1|'BI├èN Bß║óN KIß╗éM K├è H├ÇNG Tß╗ÆN KHO'|align=center|bold=True|size=12.0
+ROW6:COL1|'(Sß╗¡ dß╗Ñng cho Hß╗Ö kinh doanh ├íp dß╗Ñng ph╞░╞íng ph├íp k├¬ khai thuß║┐)'|align=center|bold=False|size=12.0
+ROW7:COL1|'Thß╗¥i ─æiß╗âm kiß╗âm k├¬: .... giß╗¥ .... ph├║t .... ng├áy .... th├íng .... n─âm ....'|align=center|bold=False|size=12.0
+ROW9:COL1|'Ng╞░ß╗¥i lß║¡p bi├¬n bß║ún:'|align=None|bold=False|size=12.0
+ROW9:COL5|'Chß╗⌐c danh:'|align=None|bold=False|size=12.0
+ROW10:COL1|'Ng╞░ß╗¥i kiß╗âm k├¬:'|align=None|bold=False|size=12.0
+ROW10:COL5|'Chß╗⌐c danh:'|align=None|bold=False|size=12.0
+ROW12:COL1|'─É├ú kiß╗âm k├¬ kho c├│ nhß╗»ng mß║╖t h├áng d╞░ß╗¢i ─æ├óy:'|align=None|bold=False|size=12.0
+ROW13:COL1|'STT'|align=center|bold=True|size=12.0
+ROW13:COL2|'M├ú h├áng h├│a'|align=center|bold=True|size=12.0
+ROW13:COL3|'T├¬n h├áng h├│a/Vß║¡t t╞░'|align=center|bold=True|size=12.0
+ROW13:COL4|'─É╞ín vß╗ï t├¡nh'|align=center|bold=True|size=12.0
+ROW13:COL5|'Sß╗æ l╞░ß╗úng tß╗ôn kho'|align=center|bold=True|size=12.0
+ROW13:COL6|'─É╞ín gi├í (VND)'|align=center|bold=True|size=12.0
+ROW13:COL7|'Th├ánh tiß╗ün (VND)'|align=center|bold=True|size=12.0
+ROW13:COL8|'Ghi ch├║'|align=center|bold=True|size=12.0
+ROW14:COL1|1|align=center|bold=False|size=12.0
+ROW15:COL1|2|align=center|bold=False|size=12.0
+ROW16:COL1|3|align=center|bold=False|size=12.0
+ROW17:COL1|4|align=center|bold=False|size=12.0
+ROW18:COL1|5|align=center|bold=False|size=12.0
+ROW19:COL1|6|align=center|bold=False|size=12.0
+ROW20:COL1|7|align=center|bold=False|size=12.0
+ROW21:COL1|8|align=center|bold=False|size=12.0
+ROW22:COL1|'Tß╗òng tiß╗ün'|align=center|bold=False|size=12.0
+ROW23:COL1|'(Sß╗æ tiß╗ün bß║▒ng chß╗»: ...............................................................)'|align=left|bold=False|size=12.0
+ROW25:COL1|'- C├íc mß║╖t h├áng tß╗ôn kho n├áy ─æ╞░ß╗úc mua tr╞░ß╗¢c ng├áy 31/12/2025, kh├┤ng c├│ ─æß╗º h├│a ─æ╞ín, chß╗⌐ng tß╗½ do thß╗¥i ─æiß╗âm ch╞░a ├íp dß╗Ñng ph╞░╞íng ph├íp k├¬ khai.'|align=left|bold=False|size=12.0
+ROW26:COL1|'- Theo quy ─æß╗ïnh tß║íi khoß║ún 3 ─Éiß╗üu 4 Th├┤ng t╞░ 88/2021/TT-BTC v├á h╞░ß╗¢ng dß║½n thß╗▒c tiß╗àn, Hß╗Ö kinh doanh tß╗▒ x├íc ─æß╗ïnh v├á chß╗ïu tr├ích nhiß╗çm tr╞░ß╗¢c ph├íp luß║¡t khi ghi nhß║¡n h├áng tß╗ôn kho kh├┤ng c├│ chß╗⌐ng tß╗½.'|align=left|bold=False|size=12.0
+ROW27:COL1|'- Bi├¬n bß║ún n├áy l├á c╞í sß╗ƒ ─æß╗â ghi nhß║¡n v├áo sß╗ò s├ích kß║┐ to├ín tß║íi thß╗¥i ─æiß╗âm chuyß╗ân ─æß╗òi sang ph╞░╞íng ph├íp k├¬ khai.'|align=None|bold=False|size=12.0
+ROW28:COL1|'- Chß╗º Hß╗Ö kinh doanh xin cam ─æoan nhß╗»ng sß╗æ liß╗çu th├┤ng tin n├¬u tr├¬n l├á ─æ├║ng sß╗▒ thß║¡t v├á ho├án to├án chß╗ïu tr├ích nhiß╗çm tr╞░ß╗¢c ph├íp luß║¡t.'|align=None|bold=False|size=12.0
+ROW31:COL1|'─Éß║áI DIß╗åN\n Hß╗ÿ KINH DOANH\n(K├╜ v├á ghi r├╡ hß╗ì t├¬n)'|align=center|bold=False|size=12.0
+ROW31:COL3|'NG╞»ß╗£I KIß╗éM K├è\n(K├╜ v├á ghi r├╡ hß╗ì t├¬n)'|align=center|bold=False|size=12.0
+ROW31:COL5|'NG╞»ß╗£I Lß║¼P BI├èN Bß║óN\n(K├╜ v├á ghi r├╡ hß╗ì t├¬n)'|align=center|bold=False|size=12.0
+ROW31:COL7|'Kß║╛ TO├üN (Nß║╛U C├ô)\n(K├╜ v├á ghi r├╡ hß╗ì t├¬n)'|align=center|bold=False|size=12.0
